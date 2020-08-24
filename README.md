@@ -1,2 +1,3 @@
 # GAN_MNIST_on_Google_Colab
-GAN for generating MNIST images on Google Colaboratory
+
+The Python code in this repo is the modified version of https://github.com/eriklindernoren/Keras-GAN/blob/master/gan/gan.py
